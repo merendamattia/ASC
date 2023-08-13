@@ -1,4 +1,5 @@
 **/.obsidian/**
+**/.vscode/**
 **/.DS_Store
 *.out
 *.iso
