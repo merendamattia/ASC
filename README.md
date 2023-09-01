@@ -4,7 +4,8 @@ Corso _"Amministrazione Sistemi IT e Cloud"_ presso l'Università degli Studi di
 ```
 Guida directory:
 .
-├── esami
+├── es
+├─esercizi
 └── slides
 ```
 
