@@ -1,0 +1,4 @@
+for i in {1..1001}; do   echo "ciao$i"; done > text_file
+wc -l text_file
+tail -100 text_file
+head -$(($(wc -l < text_file) / 2)) text_file
